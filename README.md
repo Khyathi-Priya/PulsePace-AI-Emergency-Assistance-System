@@ -53,7 +53,7 @@ PulsePace acts as a voice-based emergency assistant that:
 
 ![App Screenshot](pictures/main%20page.jpg)
 ![login page](pictures/login%20page.jpg)
-![Ambulance Alert Screen]((pictures/title%20page.jpg))
+![Ambulance Alert Screen](pictures/title%20page.jpg)
 ![Voice Assistant in Action](pictures/assistant.jpg)
 ![CPR](pictures/cpr.jpg)
 
